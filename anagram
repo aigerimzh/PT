@@ -1,0 +1,21 @@
+s = input()
+ss = input()
+s = s.lower()
+ss = ss.lower()
+if len(s) == len(ss):
+	l = []
+	ll = []
+	for i in s:
+		l.append(i)
+	for i in ss:
+		ll.append(i)
+	l = sorted(l)
+	ll = sorted(ll)
+	ok = True
+	for i in range(0, len(l), 1):
+		if l[i] != ll[i]:
+			ok = False
+			break
+		else:
+			ok = True
+	print(ok)
