@@ -1,0 +1,750 @@
+<!--
+     _______                              _
+    |__   __| ___   _ __     ___   _ _    _  
+       | |   / _ \ | '_ \   /   \ | '__\ | |
+       | |  |  __/ | | | | |  - | | /    | |
+       |_|   \___| |_| |_|  \__ | |_|    |_|
+                             _| | 
+                            |__/
+-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="ru">
+    <head>
+        <link rel="stylesheet" type="text/css" href="/static/css/html5reset-1.6.1.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/static/css/tnm.engine.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/static/css/tnm.banners.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/static/css/tnm.general.css" media="all" />
+<script type="text/javascript" src="/assets/66a68308/jquery.js"></script>
+<script type="text/javascript" src="/static/js/tnm.general.js"></script>
+<script type="text/javascript" src="/static/js/tnm.comments.js"></script>
+<script type="text/javascript" src="/static/js/jquery.cookie.js"></script>
+<title>Актуальные новости в любое время. Tengrinews.kz</title>
+        <meta charset="utf-8">
+        <!--meta http-equiv="X-UA-Compatible" content="IE=edge"-->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible" />
+        <link rel="shortcut icon" href="/static/i/favicon.ico" type="image/x-icon">
+
+                        <link rel="canonical" href="https://tengrinews.kz/">
+        
+
+        
+        
+                                
+
+                                        
+	
+		<!-- Double click -->
+		<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + 
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+		<!-- /Double click -->
+
+        <script type='text/javascript' src="//s.i-vengo.com/js/ivengo.min.js"></script>
+        <script type='text/javascript'>
+            iVengo.init( {
+                appId   : '19sgrvgpn5j',
+                logLevel: 'info'
+            } );
+        </script>
+            </head>
+    <body >
+            <div class="top320">
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {
+			googletag.defineSlot('/113520642/top-320-tengrinews.kz', [320, 65], 'div-gpt-ad-1425292102341-0').addService(googletag.pubads());
+			googletag.pubads().setTargeting("page","index");
+			googletag.pubads().setTargeting("date",'13.02');
+			googletag.pubads().collapseEmptyDivs(true);
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+	</script>
+	<div id='div-gpt-ad-1425292102341-0'">
+		<script type='text/javascript'>
+			googletag.cmd.push(funnyction() { googletag.display('div-gpt-ad-1425292102341-0'); });
+		</script>
+	</div>
+</div>        
+        <div id="header">
+    <a href="/ru/" id="logo-tn"><img src="/static/i/logo-tn.png" /></a>
+			<a href="/ru/tv/" id="logo-ttv"><img src="/static/i/logo-ttv.png" /></a>
+				<a href="/ru/mixnews/"><img src="/static/i/logo-mix.png" /></a>
+	    <a href="#menu" id="menu-btn"><img src="/static/i/menu-btn.png" class="center" /></a>
+</div>
+		
+        <div id="menu-wrap">
+    <div id="menu">
+        <div id="rubrics">
+                            <a href="/ru/news">Новости</a>
+                            <a href="/ru/economic">Экономика</a>
+                            <a href="/ru/accidents">Происшествия</a>
+                            <a href="/ru/tech">Технологии</a>
+                            <a href="/ru/culture">Культура</a>
+                            <a href="/ru/sports"> Спорт в Казахстане</a>
+                            <a href="/ru/life">Жизнь</a>
+                                    <a href="/ru/article">Статьи</a>
+            <a href="/ru/opinion">Блоги и мнения</a>
+            <a href="/ru/fotoarchive">Фотогалерея</a>
+
+        </div>
+        <div id="page-menu">
+            <a href="/ru/page/about">О проекте</a>
+            <a href="/ru/page/contacts">Контакты</a>
+            <a href="/ru/page/information">Информация</a>
+
+        </div>
+        <div id="search">
+            <form>
+                <input type="text" name="query" placeholder="Поиск по сайту" />
+                <input type="submit" value="" />
+            </form>
+        </div>
+    </div>
+</div>        
+                
+                
+        <div id="content">
+        <a href="/ru/kazakhstan_news/312053" class="big-news">
+    <img src="/userdata/news/2017/news_312053/thumb_b/photo_207680.JPG" />
+    <div class="alt">
+		Скончался глава Счетного комитета Казахстана Козы-Корпеш Джанбурчин		
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			165		</span>
+		<span class="count_views" title="Просмотры">
+			38289		</span>
+	</div>	</div>
+</a>
+
+<div class="news_list">
+    	<a href="/ru/private_finance/312096" class="news-link">
+		Тенге начал неделю с укрепления		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 11:14</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			0		</span>
+		<span class="count_views" title="Просмотры">
+			143		</span>
+	</div>	</a>
+	<a href="/ru/events/312080" class="news-link">
+		В Алматы вынесли приговор по делу об убийстве Романа Ситака		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 09:57</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			4		</span>
+		<span class="count_views" title="Просмотры">
+			3262		</span>
+	</div>	</a>
+	<a href="/ru/boxing/312081" class="news-link">
+		СМИ назвали дату боя Головкин - Сондерс в Казахстане		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 08:25</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			23		</span>
+		<span class="count_views" title="Просмотры">
+			5520		</span>
+	</div>	</a>
+	<a href="/ru/kazakhstan_news/312076" class="news-link">
+		В Астане снова отменили занятия для школьников		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 05:56</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			14		</span>
+		<span class="count_views" title="Просмотры">
+			3454		</span>
+	</div>	</a>
+	<a href="/ru/crime/312068" class="news-link">
+		Видео убийства 23-летнего жителя Атырау появилось в Сети		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 21:11</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			119		</span>
+		<span class="count_views" title="Просмотры">
+			38307		</span>
+	</div>	</a>
+	<a href="/ru/kazakhstan_news/312063" class="news-link">
+		"Женщина с золотым сердцем". Сару Назарбаеву поздравляют с 76-летием		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 18:37</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			37		</span>
+		<span class="count_views" title="Просмотры">
+			15380		</span>
+	</div>	</a>
+</div>
+
+
+<div class="after7-320">
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {
+			googletag.defineSlot('/113520642/tengrinews.kz-720x80-1(320x65)', [320, 65], 'div-gpt-ad-1425356238339-0').addService(googletag.pubads());
+			googletag.pubads().setTargeting("page","index");
+			googletag.pubads().setTargeting("date",'13.02');
+			googletag.pubads().collapseEmptyDivs(true);
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+	</script>
+	<!-- tengrinews.kz-720x80-1(320x65) -->
+	<div id='div-gpt-ad-1425356238339-0'>
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425356238339-0'); });
+		</script>
+	</div>
+</div>
+
+<h2 class="header-light uppercase">Последние события</h2>
+
+<div id="latest-news" class="news_list">
+    	<a href="/ru/kazakhstan_news/312089" class="news-link">
+		Названы причины сбоя работы ЦОНов		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 11:14</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			0		</span>
+		<span class="count_views" title="Просмотры">
+			126		</span>
+	</div>	</a>
+	<a href="/ru/kazakhstan_news/312091" class="news-link">
+		Сколько преступлений совершают казахстанцы в алкогольном опьянении		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 11:08</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			0		</span>
+		<span class="count_views" title="Просмотры">
+			163		</span>
+	</div>	</a>
+	<a href="/ru/kazakhstan_news/312094" class="news-link">
+		Министр обороны РК проинспектировал Талдыкорганский гарнизон		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 11:05</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			0		</span>
+		<span class="count_views" title="Просмотры">
+			160		</span>
+	</div>	</a>
+	<a href="/ru/boxing/312093" class="news-link">
+		Болельщики подрались на вечере бокса с участием Жаната Жакиянова		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 11:00</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			0		</span>
+		<span class="count_views" title="Просмотры">
+			576		</span>
+	</div>	</a>
+	<a href="/ru/kazakhstan_news/312092" class="news-link">
+		Судимый директор в ВКО изменил фамилию, чтобы вновь руководить школой		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 10:54</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			0		</span>
+		<span class="count_views" title="Просмотры">
+			698		</span>
+	</div>	</a>
+	<a href="/ru/events/312087" class="news-link">
+		ЧП в Павлодаре: Весь город остался без воды, отменены занятия в школах		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 10:27</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			2		</span>
+		<span class="count_views" title="Просмотры">
+			2228		</span>
+	</div>	</a>
+	<a href="/ru/boxing/312090" class="news-link">
+		Тренер Головкина ответил на критику об отсутствии "больших имен" в соперниках GGG		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 10:27</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			0		</span>
+		<span class="count_views" title="Просмотры">
+			1287		</span>
+	</div>	</a>
+	<a href="/ru/crime/312086" class="news-link">
+		Полиция Алматы ищет потерпевших от действий мошенников		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 10:23</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			4		</span>
+		<span class="count_views" title="Просмотры">
+			1889		</span>
+	</div>	</a>
+	<a href="/ru/music/312083" class="news-link">
+		"Hello" Адель признана песней года по версии "Грэмми"		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 10:03</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			2		</span>
+		<span class="count_views" title="Просмотры">
+			907		</span>
+	</div>	</a>
+	<a href="/ru/asia/312082" class="news-link">
+		Южная Корея намерена провести ответные испытания баллистических ракет		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 09:03</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			12		</span>
+		<span class="count_views" title="Просмотры">
+			1256		</span>
+	</div>	</a>
+	<a href="/ru/russia/312079" class="news-link">
+		Священник на внедорожнике сбил другого служителя церкви в России		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 07:40</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			40		</span>
+		<span class="count_views" title="Просмотры">
+			4240		</span>
+	</div>	</a>
+	<a href="/ru/asia/312078" class="news-link">
+		КНДР назвала испытание баллистической ракеты успешным		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 07:01</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			9		</span>
+		<span class="count_views" title="Просмотры">
+			1317		</span>
+	</div>	</a>
+	<a href="/ru/cinema/312077" class="news-link">
+		Мюзикл "Ла-Ла Ленд" стал триумфатором премии BAFTA		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 06:13</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			8		</span>
+		<span class="count_views" title="Просмотры">
+			1265		</span>
+	</div>	</a>
+	<a href="/ru/allsports/312075" class="news-link">
+		Казахстанцы завоевали "золото" и "серебро" на этапе Кубка мира по шорт-треку		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 05:38</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			7		</span>
+		<span class="count_views" title="Просмотры">
+			1309		</span>
+	</div>	</a>
+	<a href="/ru/kazakhstan_news/312074" class="news-link">
+		Опрос: 31 процент казахстанцев видят угрозу в НАТО		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 03:12</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			48		</span>
+		<span class="count_views" title="Просмотры">
+			1519		</span>
+	</div>	</a>
+	<a href="/ru/music/312073" class="news-link">
+		Легенда джаза Эл Джерро скончался в США		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 02:08</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			1		</span>
+		<span class="count_views" title="Просмотры">
+			757		</span>
+	</div>	</a>
+	<a href="/ru/russia/312072" class="news-link">
+		Вертолет с экс-вице-премьером Алтая на борту потерпел крушение		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 01:21</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			6		</span>
+		<span class="count_views" title="Просмотры">
+			2276		</span>
+	</div>	</a>
+	<a href="/ru/near_east/312071" class="news-link">
+		СМИ сообщили о ранении главаря ДАИШ аль-Багдади		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">сегодня, 00:16</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			20		</span>
+		<span class="count_views" title="Просмотры">
+			3106		</span>
+	</div>	</a>
+	<a href="/ru/tennis/312070" class="news-link">
+		Гимн Третьего рейха исполнили на Кубке федерации по теннису в США		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 23:20</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			26		</span>
+		<span class="count_views" title="Просмотры">
+			4632		</span>
+	</div>	</a>
+	<a href="/ru/football/312069" class="news-link">
+		Футболисты "Кайсара" подрались с игроками ереванского "Бананца"		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 22:18</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			23		</span>
+		<span class="count_views" title="Просмотры">
+			4780		</span>
+	</div>	</a>
+	<a href="/ru/strange_news/312066" class="news-link">
+		Олимпийские объекты Рио-2016 разграблены и обесточены		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 20:34</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			65		</span>
+		<span class="count_views" title="Просмотры">
+			17212		</span>
+	</div>	</a>
+	<a href="/ru/strange_news/312065" class="news-link">
+		Королева Британии ищет специалиста для ведения личного Twitter за 30 тысяч фунтов в год		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 19:50</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			43		</span>
+		<span class="count_views" title="Просмотры">
+			2440		</span>
+	</div>	</a>
+	<a href="/ru/world_news/312064" class="news-link">
+		Президентом Германии избран Франк-Вальтер Штайнмайер		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 19:31</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			20		</span>
+		<span class="count_views" title="Просмотры">
+			5041		</span>
+	</div>	</a>
+	<a href="/ru/world_news/312062" class="news-link">
+		Крайне безответственные действия - МИД РК о запуске баллистической ракеты КНДР		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 17:46</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			53		</span>
+		<span class="count_views" title="Просмотры">
+			10814		</span>
+	</div>	</a>
+	<a href="/ru/kazakhstan_news/312061" class="news-link">
+		Максимально приближенные к боевым действиям антитеррористические учения пройдут в Астане		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 17:16</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			13		</span>
+		<span class="count_views" title="Просмотры">
+			4479		</span>
+	</div>	</a>
+	<a href="/ru/events/312060" class="news-link">
+		Из-за аварии на сетях улицы Павлодара оказались под водой		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 16:36</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			22		</span>
+		<span class="count_views" title="Просмотры">
+			7424		</span>
+	</div>	</a>
+	<a href="/ru/world_news/312059" class="news-link">
+		Россия пригласила США для участия в очередной встрече по Сирии в Астане		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 15:49</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			24		</span>
+		<span class="count_views" title="Просмотры">
+			1842		</span>
+	</div>	</a>
+	<a href="/ru/events/312058" class="news-link">
+		Курсанта Военного института Сухопутных войск приговорили к штрафу за драку		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 14:59</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			23		</span>
+		<span class="count_views" title="Просмотры">
+			2378		</span>
+	</div>	</a>
+	<a href="/ru/events/312057" class="news-link">
+		Землетрясение в Филиппинах: Казахстанских туристов просят следовать указаниям местных властей		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 13:58</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			5		</span>
+		<span class="count_views" title="Просмотры">
+			3248		</span>
+	</div>	</a>
+	<a href="/ru/kazakhstan_news/312056" class="news-link">
+		8 человек, включая семимесячного ребенка, спасены на трассе в Карагандинской области		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 13:06</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			44		</span>
+		<span class="count_views" title="Просмотры">
+			3322		</span>
+	</div>	</a>
+	<a href="/ru/strange_news/312052" class="news-link">
+		Временно безработный экс-мажилисмен Тиникеев поддержал акцию добрых дел		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 12:01</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			108		</span>
+		<span class="count_views" title="Просмотры">
+			10191		</span>
+	</div>	</a>
+	<a href="/ru/boxing/312051" class="news-link">
+		Определился следующий соперник непобежденного боксера Мадияра Ашкеева		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 10:22</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			12		</span>
+		<span class="count_views" title="Просмотры">
+			2210		</span>
+	</div>	</a>
+	<a href="/ru/sng/312050" class="news-link">
+		Берик Имашев обсудил в Ашхабаде особенности избирательной кампании в Туркменистане		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 10:10</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			17		</span>
+		<span class="count_views" title="Просмотры">
+			1945		</span>
+	</div>	</a>
+	<a href="/ru/sng/312049" class="news-link">
+		В Туркменистане выбирают президента		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 09:24</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			80		</span>
+		<span class="count_views" title="Просмотры">
+			4522		</span>
+	</div>	</a>
+	<a href="/ru/internet/312048" class="news-link">
+		WhatsApp внедрил новую функцию защиты аккаунта		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 08:19</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			28		</span>
+		<span class="count_views" title="Просмотры">
+			16053		</span>
+	</div>	</a>
+	<a href="/ru/world_news/312047" class="news-link">
+		КНДР запустила баллистическую ракету в сторону Японского моря - СМИ		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 07:29</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			22		</span>
+		<span class="count_views" title="Просмотры">
+			3739		</span>
+	</div>	</a>
+	<a href="/ru/events/312046" class="news-link">
+		Водитель погиб в лобовом столкновении на трассе в ЗКО		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 07:09</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			37		</span>
+		<span class="count_views" title="Просмотры">
+			4594		</span>
+	</div>	</a>
+	<a href="/ru/world_news/312045" class="news-link">
+		Газета по ошибке напечатала фото Болдуина вместо Трампа		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 06:26</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			19		</span>
+		<span class="count_views" title="Просмотры">
+			4003		</span>
+	</div>	</a>
+	<a href="/ru/style/312044" class="news-link">
+		Дизайнер модного дома Calvin Klein выпустил линию нижнего белья с посланием Трампу		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 05:43</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			34		</span>
+		<span class="count_views" title="Просмотры">
+			4271		</span>
+	</div>	</a>
+	<a href="/ru/show/312043" class="news-link">
+		Максим Фадеев обратился в Сети к казахстанцам: Не забивайте нас камнями		<div class="arrow"></div>
+					<br class="clear" />
+			<span class="date">вчера, 05:06</span>
+				
+	<div class="count_icons">
+		<span class="count_comments" title="Комментарии">
+			239		</span>
+		<span class="count_views" title="Просмотры">
+			29457		</span>
+	</div>	</a>
+</div>
+
+<div id="MIXADV_1322" class="MIXADVERT_NET" style="padding: 15px 0; background-color: #FFFFFF; margin-bottom: 9px;"></div>
+<script type="text/javascript" src="https://s.mixadvert.com/show/?id=1322"></script>
+<div align="center">
+	<a class="btn btn-green center" id="showLatest" data-page="2" href="#">Показать еще</a></div>
+</div>
+                <footer>
+
+  <div id="footer">
+    <div id="copyright">&copy; 2008 &minus; 2017 ТОО «EML»</div>
+    <div class="links">
+		<p>
+							<a href="/en/" class="fright">English</a>	
+										<a href="/kaz/" class="fright">Қазақ</a>
+									<a href="https://tengrinews.kz/ru" class="gray">Полная версия</a>
+		</p>
+    </div>
+	
+	<div class="counter">
+<!-- ZERO.kz -->
+            <img src="http://c.zero.kz/z.png?u=40613&t=1" width="0" height="0" alt="ZERO.kz fix"/>
+        <span id="_zero_40613">
+        <noscript>
+            <a href="http://zero.kz/?s=40613" target="_blank">
+                <img src="http://c.zero.kz/z.png?u=40613" width="88" height="31" alt="ZERO.kz"/>
+            </a>
+        </noscript>
+    </span>
+    <script type="text/javascript">
+        var _zero_kz_ = _zero_kz_ || [];
+        _zero_kz_.push(["id", 40613]);
+        _zero_kz_.push(["type", 1]);
+
+        (function () {
+            var a = document.getElementsByTagName("script")[0],
+                s = document.createElement("script");
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https:" : "http:")
+                + "//c.zero.kz/z.js";
+            a.parentNode.insertBefore(s, a);
+        })();
+    </script>
+
+</div>
+    <!-- End ZERO.kz -->
+<script async src="https://cdn.onthe.io/io.js?TcEIpwNbo0qG"></script>
+	<!-- LiveInternet -->
+<div class="counter liveInt">
+	<script type="text/javascript"><!--
+		document.write("<a href='http://www.liveinternet.ru/click' "+
+		"target=_blank><img src='//counter.yadro.ru/hit?t19.1;r"+
+		escape(document.referrer)+((typeof(screen)=="undefined")?"":
+		";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+		screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+		";"+Math.random()+
+		"' alt='' title='LiveInternet: показано число просмотров за 24"+
+		" часа, посетителей за 24 часа и за сегодня' "+
+		"border='0' width='88' height='31'><\/a>")
+	//--></script>
+</div>
+<!-- End LiveInternet -->
+		
+  <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MX5M2R"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MX5M2R');</script>
+    <!-- End Google Tag Manager -->
+
+        <!-- Yandex.Metrika counter --><script type="text/javascript">var ya_params = {/*Здесь параметры визита*/};</script><script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script><div style="display:none;"><script type="text/javascript">try { var yaCounter1838272 = new Ya.Metrika({id:1838272, enableAll: true,params:window.ya_params||{ }}); } catch(e) { }</script></div><noscript><div><img src="//mc.yandex.ru/watch/1838272" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->	  <!--script src="https://spacebro.net/static/frontend/js/video/partner/tenginews.js" async></script-->
+
+  </div>
+</footer>
+        
+    <script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('body').on('click','#showLatest',function(){jQuery.ajax({'data':{'page':$(this).data("page")},'method':'GET','success':function(data){ $("#latest-news").append(data);var nextPage = parseInt($("#showLatest").data("page"))+1; $("#showLatest").data("page", nextPage) },'url':'/ru/ajax/GetLatestNews','cache':false});return false;});
+});
+/*]]>*/
+</script>
+</body>
+</html>
